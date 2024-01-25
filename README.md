@@ -1,6 +1,6 @@
-## Welcome to Marco's Awesome World 🌟
+## Welcome to Marco's World 🌟
 
-### Who is Marco Ramsis?
+### A Bit About Me!
 
 🚀 Multi-skilled data-scientist/developer, currently working as a contracts manager in a reputable construction firm - Leveraging a background in mechanical engineering to provide unique perspectives on data analysis and problem-solving. Education history: Bachelor (Hons) of Mechanical Engineering - full scholarship - Petronas University of Technology. Innovative problem-solver, passionate about data science with a focus on machine learning. Strengths in creativity, teamwork, and building projects from ideation to execution. Exceptional leadership characteristics in day-to-day work and when managing teams. Technical Forte: Python 🐍, React ⚛️, and Node.js 🚀
 
@@ -9,6 +9,8 @@
 • [Aspirations](#aspirations)  
 • [Technologies](#technologies)  
 • [Links](#links)  
+• [Data Science Certifications](#data-science-certifications)  
+• [Recent Coursework](#recent-coursework)  
 • [Questions](#questions)
 
 ## Aspirations
@@ -42,16 +44,30 @@ I am quite proficient in using the following technologies:
 
 ## Links
 
-Coming Soon!
+Portfolio Coming Soon!
 <!--[Marco Ramsis's Portfolio Deployed Webpage](https://Forester93.github.io/MarkForesterReact/)
 
 [Resume](https://forester93.github.io/MarkForesterReact/static/media/MarkF_FullStackResume.2d8a30e5.pdf)
 
-[My LinkedIn Account](https://www.linkedin.com/in/mforester93/)
+[My LinkedIn Account](https://www.linkedin.com/in/mforester93/)-->
+
+[My DataCamp Page](https://www.datacamp.com/portfolio/marcoramsis93)
 
 [Marco Ramsis Github Profile](https://github.com/Forester93/)
 
-![Screenshot of the page](./assets/images/screenshot.png)-->
+<!--![Screenshot of the page](./assets/images/screenshot.png)-->
+
+## Data Science Certifications
+
+Coming Soon!
+
+## Recent Coursework
+| Course Name                | Discipline                           | Provider              |
+| ---------------------------| -------------------------------------| --------------------- |
+| SQL Fundamentals           | PostgreSQL, Statistics               | DataCamp              |
+| Data Analysis with Python  | Python, Data Analysis, Statistics    | DataCamp              |
+| Python Fundamentals        | Python                               | DataCamp              |
+| Understanding Data Concepts| ML, Statistics, Data Literacy        | DataCamp              |
 
 ## Questions
 
