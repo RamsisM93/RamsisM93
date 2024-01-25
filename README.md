@@ -21,14 +21,14 @@ Aspiring to build a turnkey-solution organizations for firms to materialize idea
 
 I am quite proficient in using the following technologies:
 
- • Python for Data Science (Seaborn, Matplotlib, Scipy, etc) 🐍  
+• Python for Data Science (Seaborn, Matplotlib, Scipy, etc) 🐍  
  • SQL (including PostgreSQL) 🐘  
  • PowerBI 💡  
  • Tableau 📊  
- • Advanced MS Excel Functions 📈  
+ • Advanced MS Excel Functions 📈
 
- Other technologies I've previously worked on and familiar with:
- • HTML5 🌐  
+Other technologies I've previously worked on and familiar with:
+• HTML5 🌐  
  • CSS 🎨  
  • JavaScript 🌐  
  • JQuery 🔄  
@@ -40,11 +40,12 @@ I am quite proficient in using the following technologies:
  • Model View Controller Architecture 🔄  
  • MERN Stack 🛠️  
  • PWA 📱  
- • React ⚛️  
+ • React ⚛️
 
 ## Links
 
 Portfolio Coming Soon!
+
 <!--[Marco Ramsis's Portfolio Deployed Webpage](https://Forester93.github.io/MarkForesterReact/)
 
 [Resume](https://forester93.github.io/MarkForesterReact/static/media/MarkF_FullStackResume.2d8a30e5.pdf)
@@ -53,7 +54,7 @@ Portfolio Coming Soon!
 
 [My DataCamp Page](https://www.datacamp.com/portfolio/marcoramsis93)
 
-[Marco Ramsis Github Profile](https://github.com/Forester93/)
+[Marco Ramsis Github Profile](https://github.com/RamsisM93/)
 
 <!--![Screenshot of the page](./assets/images/screenshot.png)-->
 
@@ -62,17 +63,18 @@ Portfolio Coming Soon!
 Coming Soon!
 
 ## Recent Coursework
-| Course Name                | Discipline                           | Provider              |
-| ---------------------------| -------------------------------------| --------------------- |
-| SQL Fundamentals           | PostgreSQL, Statistics               | DataCamp              |
-| Data Analysis with Python  | Python, Data Analysis, Statistics    | DataCamp              |
-| Python Fundamentals        | Python                               | DataCamp              |
-| Understanding Data Concepts| ML, Statistics, Data Literacy        | DataCamp              |
+
+| Course Name                 | Discipline                        | Provider         |
+| --------------------------- | --------------------------------- | ---------------- |
+| SQL Fundamentals            | PostgreSQL, Statistics            | DataCamp         |
+| Data Analysis with Python   | Python, Data Analysis, Statistics | DataCamp         |
+| Python Fundamentals         | Python                            | DataCamp         |
+| Understanding Data Concepts | ML, Statistics, Data Literacy     | DataCamp         |
 
 ## Questions
 
- You can reach out to me over one of the following.
+You can reach out to me over one of the following.
 
-| Name          | Email                     | Phone Number         |
-| ------------- | ------------------------- | --------------------- |
-| Marco Ramsis  |  [marcoramsis93@gmail.com](mailto:marcoramsis93@gmail.com) | [+61-(0)-404-831-362](tel:+61404831362) |
+| Name         | Email                                                     | Phone Number                            |
+| ------------ | --------------------------------------------------------- | --------------------------------------- |
+| Marco Ramsis | [marcoramsis93@gmail.com](mailto:marcoramsis93@gmail.com) | [+61-(0)-404-831-362](tel:+61404831362) |
