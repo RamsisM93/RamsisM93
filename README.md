@@ -46,11 +46,8 @@ Other technologies I've previously worked on and familiar with:
 
 Portfolio Coming Soon!
 
-<!--[Marco Ramsis's Portfolio Deployed Webpage](https://Forester93.github.io/MarkForesterReact/)
-
-[Resume](https://forester93.github.io/MarkForesterReact/static/media/MarkF_FullStackResume.2d8a30e5.pdf)
-
-[My LinkedIn Account](https://www.linkedin.com/in/mforester93/)-->
+<!--
+-->
 
 [My DataCamp Page](https://www.datacamp.com/portfolio/marcoramsis93)
 
