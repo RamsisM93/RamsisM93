@@ -67,6 +67,7 @@ Coming Soon!
 | Data Analysis with Python   | Python, Data Analysis, Statistics | DataCamp         |
 | Python Fundamentals         | Python                            | DataCamp         |
 | Understanding Data Concepts | ML, Statistics, Data Literacy     | DataCamp         |
+| Data Analyst in SQL         | PostgreSQL, Statistics            | DataCamp         |
 
 ## Questions
 
