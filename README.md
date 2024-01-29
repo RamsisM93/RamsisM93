@@ -15,14 +15,14 @@
 
 ## Aspirations
 
-Aspiring to build a turnkey-solution organizations for firms to materialize ideas that will change the world.
+Aspiring to build a remarkable career in Data Science, Machine Learning and AI.
 
 ### Technologies
 
 I am quite proficient in using the following technologies:
 
 • Python for Data Science (Seaborn, Matplotlib, Scipy, etc) 🐍  
- • SQL (including PostgreSQL) 🐘  
+ • SQL (PostgreSQL) 🐘  
  • PowerBI 💡  
  • Tableau 📊  
  • Advanced MS Excel Functions 📈
@@ -57,7 +57,7 @@ Portfolio Coming Soon!
 
 ## Data Science Certifications
 
-Coming Soon!
+![Associate Data Analyst - Data Camp](/Images/image.png)
 
 ## Recent Coursework
 
