@@ -27,7 +27,7 @@ I am quite proficient in using the following technologies:
  • Tableau 📊  
  • Advanced MS Excel Functions 📈
 
-Other technologies I've previously worked on and familiar with:
+Other technologies I'm familiar with:
 • HTML5 🌐  
  • CSS 🎨  
  • JavaScript 🌐  
@@ -37,10 +37,8 @@ Other technologies I've previously worked on and familiar with:
  • NoSQL 📄  
  • MongoDB 🍃  
  • IndexedDB 🗃️  
- • Model View Controller Architecture 🔄  
- • MERN Stack 🛠️  
+ • Model View Controller Architecture 🔄    
  • PWA 📱  
- • React ⚛️
 
 ## Links
 
