@@ -51,6 +51,8 @@ Portfolio Coming Soon!
 
 [My DataCamp Page](https://www.datacamp.com/portfolio/marcoramsis93)
 
+[My LinkedIn](linkedin.com/in/marco-ramsis-b07b1229b)
+
 [Marco Ramsis Github Profile](https://github.com/RamsisM93/)
 
 <!--![Screenshot of the page](./assets/images/screenshot.png)-->
@@ -72,7 +74,9 @@ Portfolio Coming Soon!
 ## Questions
 
 You can reach out to me over one of the following.
-
-| Name         | Email                                                     | Phone Number                            |
-| ------------ | --------------------------------------------------------- | --------------------------------------- |
-| Marco Ramsis | [marcoramsis93@gmail.com](mailto:marcoramsis93@gmail.com) | [+61-(0)-404-831-362](tel:+61404831362) |
+      
+| Name         | Marco Ramsis                                              |
+| ------------ | --------------------------------------------------------- |
+| Email        | [marcoramsis93@gmail.com](mailto:marcoramsis93@gmail.com) |
+| Phone Number | [+61-(0)-404-831-362](tel:+61404831362)                   |
+| LinkedIn     | [My LinkedIn](linkedin.com/in/marco-ramsis-b07b1229b)     |
