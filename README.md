@@ -2,7 +2,7 @@
 
 ### A Bit About Me!
 
-🚀 Multi-skilled data-scientist/developer, currently working as a contracts manager in a reputable construction firm - Leveraging a background in mechanical engineering to provide unique perspectives on data analysis and problem-solving. Education history: Bachelor (Hons) of Mechanical Engineering - full scholarship - Petronas University of Technology. Innovative problem-solver, passionate about data science with a focus on machine learning. Strengths in creativity, teamwork, and building projects from ideation to execution. Exceptional leadership characteristics in day-to-day work and when managing teams. Technical Forte: Python 🐍, React ⚛️, and Node.js 🚀
+🚀 Multi-skilled data-scientist/developer, currently working as a contracts manager in a reputable construction firm - Leveraging a background in mechanical engineering to provide unique perspectives on data analysis and problem-solving. Education history: Bachelor (Hons) of Mechanical Engineering - full scholarship - Petronas University of Technology. Innovative problem-solver, passionate about data science with a focus on machine learning. Strengths in creativity, teamwork, and building projects from ideation to execution. Exceptional leadership characteristics in day-to-day work and when managing teams. Technical Forte: Python 🐍, SQL ⚛️, and NodeJS 🚀
 
 ## Contents
 
